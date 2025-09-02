@@ -1,28 +1,29 @@
 [
   {
-  "name": "Atatürk Remembrance Day",
+    "name": "Atatürk Remembrance Day",
     "date": "2025-11-09",
     "time": "1:30 PM - 4:00 PM",
-  "location": "5200 North Ocean Blvd, Clubhouse, Lauderdale by the Sea",
-  "description": "Commemoration of Mustafa Kemal Atatürk with music and cultural program.\n\nSave the Date: Sunday, November 9, 2025\n\nTime: 1:30 PM - 4:00 PM\n\nLocation: 5200 North Ocean Blvd, Clubhouse, Lauderdale by the Sea\n\nYou are cordially invited (Free Event)\n\nRSVP required\n\nRSVP: Şermin Türegün\nEmail: tmasflorida@gmail.com",
+    "location": "5200 North Ocean Blvd, Clubhouse, Lauderdale by the Sea",
+    "description": "Commemoration of Mustafa Kemal Atatürk with music and cultural program.\n\nSave the Date: Sunday, November 9, 2025\n\nTime: 1:30 PM - 4:00 PM\n\nLocation: 5200 North Ocean Blvd, Clubhouse, Lauderdale by the Sea\n\nYou are cordially invited (Free Event)\n\nRSVP required\n\nRSVP: Şermin Türegün\nEmail: tmasflorida@gmail.com",
     "type": "upcoming",
-  "image": "/ataturk_remembrance_day.png"
+    "image": "/ataturk_remembrance_day.png"
   },
   {
     "name": "Crochet Workshop",
     "date": "2025-08-28",
     "time": "1:30 PM - 4:30 PM",
-  "location": "Pompano Beach Library and Cultural Center, 50 W Atlantic Boulevard, Pompano Beach, Florida 33060",
-  "description": "Come Crochet With Us! No experience needed – all material will be provided. Tea and treats included. Chance to win a door prize.\n\nChoose your yarn color: https://forms.gle/gh4qC4Q3yqAN9HP66\n\nDate: Thursday, August 28th\n\nTime: 1:30pm–4:30pm\n\nRSVP by August 20th\n\nContact volunteer course instructor: Seda Eflanlı (tmasflorida@gmail.com)\n\nSpace is limited, payment must be made by August 20th, 2025.\n\nPay by Zelle: tmasflorida@gmail.com\n\n$30 for members, $35 for non-members.",
-    "type": "upcoming",
+    "location": "Pompano Beach Library and Cultural Center, 50 W Atlantic Boulevard, Pompano Beach, Florida 33060",
+    "description": "Come Crochet With Us! No experience needed – all material will be provided. Tea and treats included. Chance to win a door prize.\n\nChoose your yarn color: https://forms.gle/gh4qC4Q3yqAN9HP66\n\nDate: Thursday, August 28th\n\nTime: 1:30pm–4:30pm\n\nRSVP by August 20th\n\nContact volunteer course instructor: Seda Eflanlı (tmasflorida@gmail.com)\n\nSpace is limited, payment must be made by August 20th, 2025.\n\nPay by Zelle: tmasflorida@gmail.com\n\n$30 for members, $35 for non-members.",
+    "type": "past",
     "image": "/crochet_event.jpg"
-  },{
-  "name": "Turkuaz Choir Concert",
-  "date": "2025-04-26",
-  "time": "12:00 PM - 1:00 PM",
-  "location": "Herb Skolnick Center\n800 SW 36th Ave, Pompano Beach, FL 33069",
-  "description": "Tangos and Kantos",
-  "type": "past",
-  "image": "/turkuaz_choir_concert.jfif"
-}
+  },
+  {
+    "name": "Turkuaz Choir Concert",
+    "date": "2025-04-26",
+    "time": "12:00 PM - 1:00 PM",
+    "location": "Herb Skolnick Center\n800 SW 36th Ave, Pompano Beach, FL 33069",
+    "description": "Tangos and Kantos",
+    "type": "past",
+    "image": "/turkuaz_choir_concert.jfif"
+  }
 ]
