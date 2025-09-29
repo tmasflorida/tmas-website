@@ -36,5 +36,55 @@
     "type": "past",
     "image": "/turkuaz_choir_concert.jfif",
     "galleryUrl": "https://photos.app.goo.gl/BbGQwSsfBibR9ZrB9"
+  },
+  {
+    "name": "Turkuaz Choir Concert",
+    "date": "2023-04-27",
+    "time": "12:00 PM - 5:00 PM",
+    "location": "Highland Beach Library\n3618 S Ocean Blvd, Highland Beach, FL 33487",
+    "description": "Deprem Dayanışma Konseri",
+    "type": "past",
+    "image": "/deprem_concert.jpg",
+    "galleryUrl": "https://photos.app.goo.gl/MBWjSr4LFyHjvD4y9"
+  },
+  {
+    "name": "Turkuaz Choir Concert",
+    "date": "2024-04-27",
+    "time": "12:00 PM - 5:00 PM",
+    "location": "3430 Galt Ocean Dr, Fort Lauderdale, FL 33308",
+    "description": "İstanbul Şarkıları",
+    "type": "past",
+    "image": "/turkuaz_choir_concert_istanbul.jpg",
+    "galleryUrl": "https://photos.app.goo.gl/xZPGWuVeTigN4Wgn6"
+  },
+  {
+    "name": "Turkuaz Choir Concert",
+    "date": "2025-01-12",
+    "time": "3:00 PM - 6:00 PM",
+    "location": "3430 Galt Ocean Dr, Fort Lauderdale, FL 33308",
+    "description": "Kadın Ruhu Değmiş Şarkılar",
+    "type": "past",
+    "image": "/turkuaz_choir_concert_women.png",
+    "galleryUrl": "https://photos.app.goo.gl/Jhu348Ec74Xo4JvE7"
+  },
+  {
+    "name": "Turkuaz Choir Concert",
+    "date": "2024-02-03",
+    "time": "3:00 PM - 6:00 PM",
+    "location": "3430 Galt Ocean Dr, Fort Lauderdale, FL 33308",
+    "description": "Aşk Olsun",
+    "type": "past",
+    "image": "/turkuaz_choir_concert_love.jpg",
+    "galleryUrl": "https://photos.app.goo.gl/bfqjsnjXHpAwJp276"
+  },
+  {
+    "name": "Cultural and Arts Outings - Museum Trip",
+    "date": "2025-09-06",
+    "time": "3:00 PM - 5:00 PM",
+    "location": "501 Plaza Real S, Boca Raton, FL 33432",
+    "description": "Boca Raton Museum of Art",
+    "type": "past",
+    "image": "/museum_trip.jpeg",
+    "galleryUrl": "https://photos.app.goo.gl/CGWULLHT9RdBdK4RA"
   }
 ]
