@@ -77,5 +77,14 @@
     "description": "Boca Raton Museum of Art",
     "image": "/museum_trip.jpeg",
     "galleryUrl": "https://photos.app.goo.gl/CGWULLHT9RdBdK4RA"
+  },
+  {
+    "name": "Cultural and Arts Outings - Museum Trip",
+    "date": "2025-11-01",
+    "time": "3:00 PM - 5:00 PM",
+    "location": "1103 Biscayne Blvd, Miami, FL 33132",
+    "description": "Pérez Art Museum of Miami",
+    "image": "/perez_museum_trip.jpeg",
+    "galleryUrl": "https://photos.app.goo.gl/red2F2NSmkPuFGfX8"
   }
 ]
