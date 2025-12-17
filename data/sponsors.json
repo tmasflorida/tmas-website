@@ -1,0 +1,16 @@
+[
+  {
+    "id": "FloridaSignX",
+    "name": "Florida SignX",
+    "website": "https://floridasignx.com/",
+    "cardImage": "/sponsors/florida_signx.jpg",
+    "sort": 100
+  },
+  {
+    "id": "FloridaDTFPrint",
+    "name": "Florida DTF Print",
+    "website": "https://floridadtfprint.com/",
+    "cardImage": "/sponsors/florida_dtf_print.jpg",
+    "sort": 50
+  }  
+]
